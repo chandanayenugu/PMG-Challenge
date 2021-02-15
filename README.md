@@ -33,7 +33,7 @@ The script would output
 
 - Python, used Pandas library to read and write CSV files by creating a virtual environment using Anaconda
 
-##To run the main csv_combiner.py file run the following command on terminal 
+## To run the main csv_combiner.py file run the following command on terminal 
 
 Through command line:
 ```
